@@ -1,7 +1,7 @@
 <div align="center">
 <h1 id="bim小助手-bimhelper" align="center" style="margin: 30px 0 30px; font-weight: bold;">BIM小助手 - BIMHelper</h1>
 
-**一款基于Revit二次开发的建模插件工具集**
+**Revit建模插件工具集**
 
 [![Revit 2020](https://img.shields.io/badge/Revit-2020-blue.svg)](https://www.autodesk.com/products/revit/)
 [![.NETFramework](https://img.shields.io/badge/.NETFramework-4.7-purple.svg)](https://dotnet.microsoft.com/)
@@ -13,9 +13,9 @@
 
 ---
 
+<a id="一、简介"></a>
 ## 一、简介
-BIM小助手（BIMHelper）是一个为Revit用户打造的效率提升工具集，包含12个实用功能，覆盖轴网创建、智能标注、视图管理、族库管理等常用场景，使用前端窗口交互的方式，帮助设计人员减少重复性工作，提高工作效率。
-
+BIM小助手（BIMHelper）是一款适用于Revit2020的插件工具，使用WPF窗口与使用者交互，包含12项常用功能，适用于建模、标注、族库管理、视图设置、项目保存、图例出图等场景，帮助使用者在建模设计过程中实现批量化、标准化，减少重复性工作，提高工作效率。
 
 <div align="center">
 <table>
@@ -60,6 +60,7 @@ BIM小助手（BIMHelper）是一个为Revit用户打造的效率提升工具集
 
 ---
 
+<a id="二、安装与卸载"></a>
 ## 二、安装与卸载
 ### 1.系统要求
 
@@ -70,7 +71,7 @@ BIM小助手（BIMHelper）是一个为Revit用户打造的效率提升工具集
 
 
 ### 2.安装教程
-1. 下载最新版本的 `BIMHelper_v1.0.zip`
+1. 下载最新版本的 `BIM小助手安装程序_v1.0.zip`
 2. 解压到电脑本地任意目录，双击 **"BIMHelperInstaller.exe"**。
 
 <img src="image/1解压.png" width="60%">
@@ -113,6 +114,7 @@ C:\ProgramData\Autodesk\Revit\Addins\2020\
 
 ---
 
+<a id="三、功能演示"></a>
 ## 三、功能演示
 ### 1.演示视频
 **视频链接**： [【《BIM小助手》功能操作演示-哔哩哔哩】](https://b23.tv/Gyf4LPi)
@@ -162,6 +164,7 @@ C:\ProgramData\Autodesk\Revit\Addins\2020\
 
 ---
 
+<a id="四、功能特性介绍"></a>
 ## 四、功能特性介绍
 ### 轴网工具
 | 功能 | 说明 |
@@ -325,6 +328,7 @@ C:\ProgramData\Autodesk\Revit\Addins\2020\
 
 ---
 
+<a id="五、技术栈"></a>
 ## 五、技术栈
 ```plain
 语言：C# 7.0+
@@ -337,6 +341,7 @@ UI框架：WPF
 
 ---
 
+<a id="六、联系方式"></a>
 ## 六、联系方式
 | ![]()   <sub>**GitHub**</sub>   [@AmberJohnRay](https://github.com/AmberJohnRay/BIMHelper.git) | ![]()   <sub>**Email**</sub>   [825030876@qq.com](mailto:825030876@qq.com) |
 | --| --|
