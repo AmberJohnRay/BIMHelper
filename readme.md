@@ -7,7 +7,7 @@
 [![.NETFramework](https://img.shields.io/badge/.NETFramework-4.7-purple.svg)](https://dotnet.microsoft.com/)
 [![C#](https://img.shields.io/badge/C%23-7.0+-green.svg)](https://docs.microsoft.com/en-us/dotnet/csharp/)
 
-[简介](#-一、简介) • [安装](#-二、安装与卸载) • [演示](#-三、功能演示) • [功能](#-四、功能特性介绍) • [技术](#-五、技术栈) • [联系](#-六、联系方式)
+[简介](#一、简介) • [安装](#二、安装与卸载) • [演示](#三、功能演示) • [功能](#四、功能特性介绍) • [技术](#五、技术栈) • [联系](#六、联系方式)
 
 </div>
 
@@ -73,33 +73,33 @@ BIM小助手（BIMHelper）是一个为Revit用户打造的效率提升工具集
 1. 下载最新版本的 `BIMHelper_v1.0.zip`
 2. 解压到电脑本地任意目录，双击 **"BIMHelperInstaller.exe"**。
 
-<img src="https://cdn.nlark.com/yuque/0/2025/png/48516462/1765896189758-c6d23173-bcf8-4f83-8449-8f66ae1dee48.png" width="60%">
+<img src="image/1解压.png" width="60%">
 
 3. 点击安装，
 
-<img src="https://cdn.nlark.com/yuque/0/2025/png/48516462/1765983045865-c8bfcd5f-f250-4e0a-b7e2-43f7f2fa743a.png" width="60%">
+<img src="image/2安装.png" width="60%">
 
    安装完毕后关闭窗口。
 
-<img src="https://cdn.nlark.com/yuque/0/2025/png/48516462/1765983432738-e1106730-0f1c-4378-a010-4171e10a8f5a.png" width="60%">
+<img src="image/3安装完成.png" width="60%">
 
 4. 手动检查电脑此目录下是否包含如下文件（本步可略过）：
 
-<img src="https://cdn.nlark.com/yuque/0/2025/png/48516462/1765896502246-a5e6fc25-aa6b-40c1-914c-69a84a76705d.png" width="70%">
+<img src="image/4手动检查.png" width="70%">
 
 5. 启动Revit2020，在弹出的窗口选择 **"总是载入"**。
 
-<img src="https://cdn.nlark.com/yuque/0/2025/png/48516462/1765983513490-b5baccf4-0319-4171-89fc-b8217e4753de.png" width="60%">
+<img src="image/5总是载入.png" width="60%">
 
 6. 查看功能区是否显示 **"BIM小助手"** 选项卡，如图所示即为安装成功。
 
-<img src="https://cdn.nlark.com/yuque/0/2025/png/48516462/1765897816191-a3c2a1ae-4513-4ae2-a7a1-c56ddeefa143.png" width="70%">
+<img src="image/6检查选项卡.png" width="70%">
 
 ### 3.卸载方法
 #### 方法一：永久卸载
 双击 **"BIMHelperInstaller.exe"**，点击 **"卸载"** 按钮。
 
-<img src="https://cdn.nlark.com/yuque/0/2025/png/48516462/1766330480141-64b88455-7288-41ee-88e5-7a0fca7a7cba.png" width="70%">
+<img src="image/7卸载完成.png" width="70%">
 
 #### 方法二：保留插件但不载入Revit面板
 打开以下路径，修改 **“BIMHelper.addain”** 的文件名称和格式名称，如修改为 **“BIMHelper123.addain456”** ，注意文件名称和格式名称均需要修改。  
@@ -121,43 +121,43 @@ C:\ProgramData\Autodesk\Revit\Addins\2020\
 
 #### ● 创建轴网
 
-<img src="https://cdn.nlark.com/yuque/0/2025/png/48516462/1766242340913-a3fee88b-02ed-499a-b957-d7998b52bfac.png" width="70%">
+<img src="image/8创建直线轴网.png" width="70%">
 
 
 
-<img src="https://cdn.nlark.com/yuque/0/2025/png/48516462/1766242372497-f785a0ca-b77f-4197-87d1-8624773e11ca.png" width="70%">
+<img src="image/9创建弧形轴网.png" width="70%">
 
 #### ● 设置可见性
 
-<img src="https://cdn.nlark.com/yuque/0/2025/png/48516462/1766242460121-659a9e11-72af-4949-b44e-7a6407d52097.png" width="65%">
+<img src="image/10设置可见性.png" width="65%">
 
 #### ● 选择类似实例
 
-![](https://cdn.nlark.com/yuque/0/2025/png/48516462/1766242511035-d47c5e81-a83c-4817-85e4-51b8f00f0a8b.png)
+![](image/11选择类似实例.png)
 
 #### ● 族类型增删改
 
-<img src="https://cdn.nlark.com/yuque/0/2025/png/48516462/1766242606569-df66c00f-0a74-470d-923b-883ebe9cb573.png" width="85%">
+<img src="image/12族类型增删改.png" width="85%">
 
 #### ● 族库管理
 
-<img src="https://cdn.nlark.com/yuque/0/2025/png/48516462/1766242704460-972ded86-1a5b-4b22-a139-4a138c6d2230.png" width="85%">
+<img src="image/13族库管理.png" width="85%">
 
 #### ● 柱子尺寸标注
 
-![](https://cdn.nlark.com/yuque/0/2025/png/48516462/1766242727785-83b0fff3-e321-48ec-81ea-73b251572b34.png)
+![](image/14柱子尺寸标注.png)
 
 #### ● 板面标高
 
-![](https://cdn.nlark.com/yuque/0/2025/png/48516462/1766242833444-ba68e769-da7f-4384-83bf-8124384ccf98.png)
+![](image/15板面标高标注.png)
 
 #### ● 自动保存
 
-![](https://cdn.nlark.com/yuque/0/2025/png/48516462/1766242845891-fdbce7b5-2da4-474d-b047-eea56c398cb0.png)
+![](image/16自动保存.png)
 
 #### ● 门窗大样
 
-<img src="https://cdn.nlark.com/yuque/0/2025/png/48516462/1766242884577-ef8db59c-dbd1-468c-b411-aa4581202926.png" width="70%">
+<img src="image/17门窗大样.png" width="70%">
 
 
 ---
