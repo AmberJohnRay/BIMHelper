@@ -73,6 +73,7 @@ BIM小助手（BIMHelper）是一款适用于Revit2020的插件工具，使用WP
 
 ### 2.安装教程
 1. 下载最新版本的 `BIM小助手安装程序_v1.0.zip`
+  [【点此下载】](https://github.com/AmberJohnRay/BIMHelper/releases/download/revit%E4%BA%8C%E6%AC%A1%E5%BC%80%E5%8F%91%E6%8F%92%E4%BB%B6/BIMHelper-Dowanload._V1.0.zip) 
 2. 解压到电脑本地任意目录，双击 **"BIMHelperInstaller.exe"**。
 
 <img src="image/1解压.png" width="60%">
