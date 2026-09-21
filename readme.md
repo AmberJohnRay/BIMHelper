@@ -5,7 +5,8 @@
 
 [![Revit 2020](https://img.shields.io/badge/Revit-2020-blue.svg)](https://www.autodesk.com/products/revit/)
 [![.NETFramework](https://img.shields.io/badge/.NETFramework-4.7-purple.svg)](https://dotnet.microsoft.com/)
-[![C#](https://img.shields.io/badge/C%23-7.0+-green.svg)](https://docs.microsoft.com/en-us/dotnet/csharp/)
+[![C#](https://img.shields.io/badge/C%23-green.svg)](https://docs.microsoft.com/en-us/dotnet/csharp/)
+[![WPF](https://img.shields.io/badge/WPF-yellow.svg)](https://docs.microsoft.com/en-us/dotnet/csharp/)
 
 [简介](#一、简介) • [安装](#二、安装与卸载) • [演示](#三、功能演示) • [功能](#四、功能特性介绍) • [技术](#五、技术栈) • [联系](#六、联系方式)
 
