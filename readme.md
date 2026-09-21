@@ -331,7 +331,7 @@ C:\ProgramData\Autodesk\Revit\Addins\2020\
 <a id="五、技术栈"></a>
 ## 五、技术栈
 ```plain
-语言：C# 7.0+
+语言：C#
 框架：.NET Framework 4.7
 API：Revit API 2020
 UI框架：WPF
